@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-
 sudo yum update -y
-sudo yum install -y python3
+sudo yum install -y git python3
 wget https://bootstrap.pypa.io/get-pip.py
 python3 ./get-pip.py && rm -f ./get-pip.py
 pip install Flask
+git clone https://github.com/johnlwhiteman/saint-martin-cryptography-class.git
