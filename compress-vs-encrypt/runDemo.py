@@ -38,7 +38,3 @@ def runTest():
 for i in range(0, 5):
   runTest()
 
-print("Why does encrypting a compressed file result in a larger file size?\n")
-print("Why does the percentage slightly change when encrypting first?\n")
-print("Which order is better in terms of data reduction?\n")
-print("Which order is better in terms security?")
