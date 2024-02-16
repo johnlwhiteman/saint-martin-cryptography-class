@@ -1,2 +1,8 @@
 crypto
+ipywidgets
+jupyterlab
+matplotlib
+notebook
+numpy
+pandas
 pycryptodome

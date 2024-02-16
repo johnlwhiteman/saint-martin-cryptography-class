@@ -1,3 +1,5 @@
 *.bin
 *-aes-cbc.png
 *-aes-ecb.png
+__pycache__
+.ipynb_checkpoints
